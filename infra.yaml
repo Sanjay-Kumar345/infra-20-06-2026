@@ -12,7 +12,7 @@ parameters:
   - qa
   - prod
 
-pool: ce-agent
+pool: nb-agent
 
 
 stages:
