@@ -12,8 +12,8 @@ parameters:
   - qa
   - prod
 
-pool:
-  vmImage: ubuntu-latest
+pool: ce-agent
+
 
 stages:
 
